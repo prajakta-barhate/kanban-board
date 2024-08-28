@@ -1,0 +1,85 @@
+.card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    max-width: 400px;
+    margin: auto;
+    min-width: 150px;
+    width: calc(100% - 20px);
+  }
+  
+  .card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .small-title {
+    color: grey;
+    font-size: 14px;
+  }
+  
+  .user-icon {
+    text-align: center;
+    border-radius: 50%;
+    background-color: grey;
+    color: white;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 15px;
+    height: 15px;
+    overflow: hidden;
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  .card-title {
+    color: black;
+    font-size: 14px;
+    margin-top: 10px;
+    word-wrap: break-word;
+    font-weight: 400;
+  }
+  
+  .card-footer {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .priority-icon img {
+    border: 1px solid #e9eaed;
+    padding: 5px;
+    border-radius: 5px;
+    height: 16px;
+    width: 16px;
+  }
+  
+  .priority-icon{
+    height: 28px;
+  }
+  
+  .tag {
+    display: flex;
+    align-items: center;
+    border: 1px solid #e9eaed;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    color: #91959b;
+  }
+  
+  .status-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+  }
+  
+  .status-text {
+    font-size: 14px;
+  }
+  

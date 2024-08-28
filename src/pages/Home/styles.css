@@ -1,0 +1,71 @@
+.cards-cover {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .status-cover {
+    display: flex;
+    flex-direction: row;
+  }
+  .status-box {
+    width: 500px;
+    padding: 20px;
+  }
+  .group {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    gap: 10px;
+    /* border: 1px solid grey; */
+    border-radius: 10px;
+    background-color: #f8f8fa;
+    width: min-content;
+    margin-top: 15px;
+    margin-left: 15px;
+    box-shadow: 0 4px 8px rgba(83, 83, 83, 0.2);
+  }
+  .options {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+  }
+  .options select {
+    min-width: 100px;
+    height: 25px;
+    border-radius: 4px;
+    border: 1px solid lightgray;
+    padding: 0 5px;
+  }
+  .options label {
+    color: grey;
+  }
+  .group-icon {
+    margin-right: 10px;
+  }
+  .count {
+    color: grey;
+    margin-left: 15px;
+  }
+  .display-btn {
+    box-shadow: 0 4px 8px rgba(83, 83, 83, 0.2);
+    border: 1px solid lightgray;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    font-size: 14px;
+    height: 25px;
+  }
+  .display-text {
+    margin: 0 10px;
+  }
+  .right-icon{
+    float: inline-end;
+    margin-left: 5px;
+  }
+  .user-grp-icon{
+    margin-right: 5px;
+  }
