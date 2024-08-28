@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/prajakta-barhate/kanban-board.git/static/css/main.0e972739.css",
+    "main.js": "/prajakta-barhate/kanban-board.git/static/js/main.7cc3b81d.js",
+    "static/js/453.f0f88b0d.chunk.js": "/prajakta-barhate/kanban-board.git/static/js/453.f0f88b0d.chunk.js",
+    "static/media/Display.svg": "/prajakta-barhate/kanban-board.git/static/media/Display.0168095040354204011b596e30abf32e.svg",
+    "static/media/Cancelled.svg": "/prajakta-barhate/kanban-board.git/static/media/Cancelled.360749f102ea2ac68b5841e9f9ff29dd.svg",
+    "static/media/3_dot_menu.svg": "/prajakta-barhate/kanban-board.git/static/media/3_dot_menu.4caedb468f68b915626e0e35045257b3.svg",
+    "static/media/No_priority.svg": "/prajakta-barhate/kanban-board.git/static/media/No_priority.7218b139313728c6a4efa8da6e34852b.svg",
+    "index.html": "/prajakta-barhate/kanban-board.git/index.html",
+    "static/media/Done.svg": "/prajakta-barhate/kanban-board.git/static/media/Done.a5158827c6345b2f141ff681c57cb3ac.svg",
+    "static/media/down.svg": "/prajakta-barhate/kanban-board.git/static/media/down.b19d146ddbaad572f0f5cebb6dbdf766.svg",
+    "static/media/Img_Low_Priority.svg": "/prajakta-barhate/kanban-board.git/static/media/Img_Low_Priority.491e21f9000cb90112dea470dbb72650.svg",
+    "static/media/Img_Medium_Priority.svg": "/prajakta-barhate/kanban-board.git/static/media/Img_Medium_Priority.83775665307e977d62e9b0fc7fb95cc4.svg",
+    "static/media/Img_High_Priority.svg": "/prajakta-barhate/kanban-board.git/static/media/Img_High_Priority.5024fd0d163cb13c95f2d29079e2974d.svg",
+    "static/media/add.svg": "/prajakta-barhate/kanban-board.git/static/media/add.f84a7335f3fac0026df6cafc2489b65d.svg",
+    "static/media/in_progress.svg": "/prajakta-barhate/kanban-board.git/static/media/in_progress.d4beb72fbc94f765259fc46ecaba9779.svg",
+    "static/media/Urgent_Priority_colour.svg": "/prajakta-barhate/kanban-board.git/static/media/Urgent_Priority_colour.9b67f75d5459d4d66573ef9f8e6f6841.svg",
+    "static/media/Backlog.svg": "/prajakta-barhate/kanban-board.git/static/media/Backlog.97adf3356b7d2e775ef530f7aed206e0.svg",
+    "static/media/To_do.svg": "/prajakta-barhate/kanban-board.git/static/media/To_do.c01d92afcffeef58b2cd9ae080df1f58.svg",
+    "main.0e972739.css.map": "/prajakta-barhate/kanban-board.git/static/css/main.0e972739.css.map",
+    "main.7cc3b81d.js.map": "/prajakta-barhate/kanban-board.git/static/js/main.7cc3b81d.js.map",
+    "453.f0f88b0d.chunk.js.map": "/prajakta-barhate/kanban-board.git/static/js/453.f0f88b0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e972739.css",
+    "static/js/main.7cc3b81d.js"
+  ]
+}
